@@ -1,0 +1,7 @@
+C:\Users\Jan Przybyszewski\Documents\DataBaseHandler\DataBaseHandler\obj\Debug\DataBaseHandler.csprojResolveAssemblyReference.cache
+C:\Users\Jan Przybyszewski\Documents\DataBaseHandler\DataBaseHandler\obj\Debug\DataBaseHandler.csproj.CoreCompileInputs.cache
+C:\Users\Jan Przybyszewski\Documents\DataBaseHandler\DataBaseHandler\bin\Debug\DataBaseHandler.exe.config
+C:\Users\Jan Przybyszewski\Documents\DataBaseHandler\DataBaseHandler\bin\Debug\DataBaseHandler.exe
+C:\Users\Jan Przybyszewski\Documents\DataBaseHandler\DataBaseHandler\bin\Debug\DataBaseHandler.pdb
+C:\Users\Jan Przybyszewski\Documents\DataBaseHandler\DataBaseHandler\obj\Debug\DataBaseHandler.exe
+C:\Users\Jan Przybyszewski\Documents\DataBaseHandler\DataBaseHandler\obj\Debug\DataBaseHandler.pdb
